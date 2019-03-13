@@ -1,0 +1,12 @@
+﻿  SnapShotManager.cpp
+  main.cpp
+  ofApp.cpp
+c:\users\jorge\desktop\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h(1363): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\jorge\desktop\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h(1363): warning C4018: '<': signed/unsigned mismatch (compiling source file src\SnapShotManager\SnapShotManager.cpp)
+c:\users\jorge\desktop\of_v0.9.2_vs_release\libs\openframeworks\math\ofVec2f.h(1363): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+C:\Users\jorge\Desktop\of_v0.9.2_vs_release\addons\ofxHttpUtils\src\ofxHttpUtils.h(37): warning C4101: 'exc': unreferenced local variable (compiling source file src\main.cpp)
+C:\Users\jorge\Desktop\of_v0.9.2_vs_release\addons\ofxHttpUtils\src\ofxHttpUtils.h(37): warning C4101: 'exc': unreferenced local variable (compiling source file src\ofApp.cpp)
+  LPTestApplication.vcxproj -> C:\Users\jorge\Desktop\of_v0.9.2_vs_release\apps\myApps\LPTestApplication\bin\LPTestApplication_debug.exe
+  LPTestApplication.vcxproj -> bin\LPTestApplication_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\jorge\Desktop\of_v0.9.2_vs_release\export\vs\Win32\
