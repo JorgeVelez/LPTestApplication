@@ -7,7 +7,7 @@ WebServices folder includes the php files to run the backend. It is running on m
 The webservices link is 
 http://thisisnotanumber.org/lp-test/getData.php
 
-The current implementation has a very basic UI but implements these functionalities:
+The current implementation has a very basic UI and implements these functionalities:
 * Gets questions from api.
 * Displays question by question.
 * Starts drawing webcam feed.
