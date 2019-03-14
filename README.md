@@ -14,6 +14,8 @@ The current implementation has a very basic UI but implements these functionalit
 * Applyes shader to webcam feed.
 * Saves webcam snapshot.
 
+[![Watch the video](http://thisisnotanumber.org/lp-test/screen.PNG)](http://thisisnotanumber.org/lp-test/appstatus.mp4)
+
 To do
 * Update database with responses to questions.
 * Draw visualization graphics.
