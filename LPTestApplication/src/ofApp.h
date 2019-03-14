@@ -51,5 +51,8 @@ class ofApp : public ofBaseApp{
 		//buttons
 		ofxCustomButton yesButton;
 		ofxCustomButton noButton;
+
+		//graphics
+		ofTrueTypeFont	verdana30;
 		
 };

@@ -40,6 +40,12 @@ void ofApp::setup(){
 	noButton.setHighlightColor(ofColor(150, 150, 150));
 	noButton.setLabelColor(ofColor::black);
 	noButton.loadFont(fontPath.getAbsolutePath(), 14, "NO");
+
+	//type
+	verdana30.load("fonts/Verdana.ttf", 30, true, true);
+	verdana30.setLineHeight(34.0f);
+	verdana30.setLetterSpacing(1.035);
+	verdana30.alig
 }
 
 //--------------------------------------------------------------
@@ -58,7 +64,7 @@ void ofApp::draw(){
 
 	//ofDrawBitmapString(responseStr, 20, 60);
 	ofSetColor(ofColor::black);
-	ofDrawBitmapString(currentQuestion, 200, 300);
+	verdana30.drawString(currentQuestion, 200, 300);
 
 	if (doDrawButtons) {
 		yesButton.draw();
